@@ -1,7 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi there! I'm Pratik Sachin Kumbhar
 
+🎓 Final Year Diploma in Computer Engineering  
+💡 Passionate about AI, Machine Learning, Android Development & Real-time Applications  
+📍 India
 
+---
+
+## 🚀 About Me
+
+I'm a tech enthusiast and aspiring engineer currently exploring and building innovative solutions in the fields of:
+
+- 🔬 **Machine Learning & Deep Learning** – Specialized in real-time medical applications, like **Heart Sound Classification Systems** using audio processing and ML models.
+- 📱 **Android Development** – Developed an **Attendance System for Colleges** with efficient backend integration.
+- 🎯 **Computer Vision** – Worked on **Object Detection Systems** capable of identifying people, vehicles, and traffic lights using OpenCV and Python.
+- 🌐 **Full Stack Projects** – Integrated PHP and Python backends across platforms for seamless system functionality.
+
+I believe in **"Learning by Doing"** and constantly push myself beyond the classroom to bring ideas to life. I’m also proud to have received **multiple industrial offers**, including one from a **German company**, at the DIPEX–2025 innovation exhibition.
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/32pratik_kumbhar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratik-kumbhar-1213praa29b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Pra_1213) 
 
