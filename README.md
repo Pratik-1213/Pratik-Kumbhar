@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Pratik Sachin Kumbhar
+# 👋 Hi there! I'm Pratik S. Kumbhar
 
 🎓 Final Year Diploma in Computer Engineering  
 💡 Passionate about AI, Machine Learning, Android Development & Real-time Applications  
